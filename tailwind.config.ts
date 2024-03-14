@@ -10,6 +10,12 @@ const config = {
 	],
   prefix: "",
   theme: {
+    fontFamily:{
+      popins:["Poppins", "sans-serif"],
+      pacifiko:["Pacifico", "cursive"],
+      roboto:["Roboto", "sans-serif"],
+
+    },
     container: {
       center: true,
       padding: "2rem",

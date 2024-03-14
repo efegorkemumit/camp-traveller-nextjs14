@@ -5,6 +5,7 @@ import Image from "next/image";
 import { useEffect } from "react";
 import AOS from 'aos';
 import 'aos/dist/aos.css';
+import Navbar from "@/components/Navbar/Navbar";
 
 export default function Home() {
 
@@ -21,19 +22,7 @@ export default function Home() {
   return (
     <>
 
-    <div className="h-96">
-
-    </div>
-  
-    <div  data-aos="fade-up"
-    data-aos-once="true" data-aos-delay="500">
-
-      adasd
-
-    
-
-    </div>
-
+  <Navbar/>
     </>
   );
 }

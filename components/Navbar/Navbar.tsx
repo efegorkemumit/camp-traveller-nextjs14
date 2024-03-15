@@ -6,8 +6,12 @@ import { MenuIcon, ToggleLeftIcon, User } from 'lucide-react'
 
 const Navbar = () => {
   return (
-    <nav className='flex justify-between items-center px-3 py-3 relative z-30'>
+    <nav className='border border-b shadow-sm '>
 
+    <div className='flex justify-between items-center px-3 py-3 relative z-30 container'>
+
+
+          
     <Link  data-aos="fade-down"
         data-aos-once="true" data-aos-delay="100"
          href="/" className='font-semibold font-pacifiko text-xl'>
@@ -43,6 +47,11 @@ const Navbar = () => {
     </div>
 
     <MenuIcon className='lg:hidden inline-block cursor-pointer w-8 h-8 text-green-600'/>
+
+      
+    </div>
+
+
 
 
 

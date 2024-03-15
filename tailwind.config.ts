@@ -10,6 +10,9 @@ const config = {
 	],
   prefix: "",
   theme: {
+    backgroundImage:{
+      pattern:"url('/pattern/2.png')"
+    },
     fontFamily:{
       popins:["Poppins", "sans-serif"],
       pacifiko:["Pacifico", "cursive"],

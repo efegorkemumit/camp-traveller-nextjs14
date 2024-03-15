@@ -11,7 +11,9 @@ const config = {
   prefix: "",
   theme: {
     backgroundImage:{
-      pattern:"url('/pattern/2.png')"
+      pattern:"url('/pattern/2.png')",
+      bgimage:"url('/camper/1.jpg')",
+      bgimagetwo:"url('/camper/2.jpg')"
     },
     fontFamily:{
       popins:["Poppins", "sans-serif"],

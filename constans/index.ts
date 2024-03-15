@@ -7,3 +7,10 @@ export const NAV_LINKS=[
     {href: "/", key:"contact_us", label:"Contact Us", delay:"1000"},
 
 ]
+
+export const PEOPLE_URL = [
+    '/users/1.png',
+    '/users/2.png',
+    '/users/3.png',
+    '/users/4.png',
+];

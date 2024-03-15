@@ -15,9 +15,9 @@ const Testimonials = () => {
 
         <div className='container'>
 
-            <div className='text-center mb-20'>
+            <div className='text-center mb-10'>
                 <h1 className='text-3xl lg:text-5xl
-                    font-semibold font-roboto
+                    font-semibold font-pacifiko
                 '>Testimonials</h1>
 
                 <div className='flex mt-5 justify-center'>

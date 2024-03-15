@@ -13,6 +13,7 @@ const Features = () => {
             <div className='flex flex-1 lg:min-h-[900px]'>
                 <Image data-aos="fade-right"
         data-aos-delay="300"
+        alt=''
                 src="/camper/phone.png"
                 width={440}
                 height={1000}

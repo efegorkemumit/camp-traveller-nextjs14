@@ -39,7 +39,7 @@
 
 ##  Camp Traveller | Frontend  | Travel Website |  NextJS, TailwindCSS, Swipper JS , AOS  and Vercel Deploy
 
-## Video  Part -  1
+## Video
 
 **Timestamps**
 - 00:00 Tanıtım

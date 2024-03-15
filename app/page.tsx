@@ -8,6 +8,7 @@ import 'aos/dist/aos.css';
 import Navbar from "@/components/Navbar/Navbar";
 import Hero from "@/components/Hero/Hero";
 import Camp from "@/components/Camp/Camp";
+import Testimonials from "@/components/Testimonials/Testimonials";
 
 export default function Home() {
 
@@ -27,6 +28,7 @@ export default function Home() {
   <Navbar/>
   <Hero/>
   <Camp/>
+  <Testimonials/>
     </>
   );
 }

@@ -94,3 +94,29 @@ export const FEATURES = [
         'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
     },
   ];
+
+  export const FOOTER_LINKS = [
+    {
+      title: 'Learn More',
+      links: [
+        'About Camp Traveller',
+        'Press Releases',
+        'Environment',
+        'Jobs',
+        'Privacy Policy',
+        'Contact Us',
+      ],
+    },
+    {
+      title: 'Our Community',
+      links: ['About', 'Camp Traveller', 'Camp Traveller'],
+    },
+  ];
+  
+  export const FOOTER_CONTACT_INFO = {
+    title: 'Contact Us',
+    links: [
+      { label: 'Admin Officer', value: '123-456-7890' },
+      { label: 'Email Officer', value: 'Camp-traveller@camp.com' },
+    ],
+  };

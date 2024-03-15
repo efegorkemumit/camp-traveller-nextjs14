@@ -67,3 +67,30 @@ export const TESTIMONIALDATA=[
         aosDelay:"700"
     },
 ]
+
+export const FEATURES = [
+    {
+      title: 'Offline Usable Real Maps',
+      variant: 'green',
+      description:
+        'We provide a solution for you to be able to use our application when climbing, yes offline maps you can use at any time there is no signal at the location',
+    },
+    {
+      title: 'Set Adventure Schedule',
+      variant: 'green',
+      description:
+        "Schedule an adventure with friends. On holidays, there are many interesting offers from Hilink. That way, there's no more discussion",
+    },
+    {
+      title: 'Technology Using Augmented Reality',
+      variant: 'green',
+      description:
+        'Technology uses augmented reality as a guide to your hiking trail in the forest to the top of the mountain. Already supported by the latest technology without an internet connection',
+    },
+    {
+      title: 'Many New Locations Every Month',
+      variant: 'orange',
+      description:
+        'Lots of new locations every month, because we have a worldwide community of climbers who share their best experiences with climbing',
+    },
+  ];

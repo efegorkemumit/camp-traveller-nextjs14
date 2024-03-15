@@ -11,7 +11,7 @@ interface TestimonialItemProps{
 const TestimonialItem = ({aosDelay,description,img,name}:TestimonialItemProps) => {
   return (
     <div data-aos="fade-down"
-    data-aos-once="true" data-aos-delay={aosDelay}
+    data-aos-delay={aosDelay}
     className='bg-green-600 rounded-2xl group relative shadow-xl w-full'>
 
         <div className='h-52'>
